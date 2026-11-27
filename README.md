@@ -74,23 +74,6 @@ Outros comandos úteis:
 - **Exclusão:** botão na listagem, com confirmação antes de apagar.
 - **Feedback ao usuário:** indicador de carregamento, mensagens de erro claras e uma tela amigável para quando não há resultados ou a página não existe.
 
-## 🖼️ Telas do sistema
-
-### Listagem
-![Tela de listagem](docs/prints/listagem.png)
-
-### Filtro
-![Tela de filtro](docs/prints/filtro.png)
-
-### Cadastro
-![Tela de cadastro](docs/prints/cadastro.png)
-
-### Detalhe
-![Tela de detalhe](docs/prints/detalhe.png)
-
-### Edição
-![Tela de edição](docs/prints/edicao.png)
-
 ## 🗂️ Estrutura do projeto
 
 ```
